@@ -1,9 +1,9 @@
---platform=linux/arm64 docker.io/kubesphere/pause:3.2
---platform=linux/arm64 docker.io/kubesphere/kube-apiserver:v1.20.4
---platform=linux/arm64 docker.io/kubesphere/kube-controller-manager:v1.20.4
---platform=linux/arm64 docker.io/kubesphere/kube-scheduler:v1.20.4
---platform=linux/arm64 docker.io/kubesphere/kube-proxy:v1.20.4
---platform=linux/arm64 docker.io/coredns/coredns:1.6.9
+--platform=linux/arm64 docker.io/kubesphere/pause:3.5
+--platform=linux/arm64 docker.io/kubesphere/kube-apiserver:v1.22.17
+--platform=linux/arm64 docker.io/kubesphere/kube-controller-manager:v1.22.17
+--platform=linux/arm64 docker.io/kubesphere/kube-scheduler:v1.22.17
+--platform=linux/arm64 docker.io/kubesphere/kube-proxy:v1.22.17
+--platform=linux/arm64 docker.io/coredns/coredns:1.8.0
 --platform=linux/arm64 docker.io/kubesphere/k8s-dns-node-cache:1.22.20
 --platform=linux/arm64 docker.io/calico/kube-controllers:v3.27.3
 --platform=linux/arm64 docker.io/calico/cni:v3.27.3
@@ -14,7 +14,7 @@
 --platform=linux/arm64 docker.io/flannel/flannel-cni-plugin:v1.1.2
 --platform=linux/arm64 docker.io/cilium/cilium:v1.15.3
 --platform=linux/arm64 docker.io/cilium/operator-generic:v1.15.3
---platform=linux/arm64 docker.io/hybridnetdev/hybridnet:v0.8.6
+--platform=linux/arm64 hybridnetdev/hybridnet-arm64:v0.8.6
 --platform=linux/arm64 docker.io/kubeovn/kube-ovn:v1.10.10
 --platform=linux/arm64 docker.io/kubesphere/multus-cni:v3.8
 --platform=linux/arm64 docker.io/openebs/provisioner-localpv:3.3.0
