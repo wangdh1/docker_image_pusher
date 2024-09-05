@@ -14,7 +14,7 @@
 --platform=linux/arm64 docker.io/flannel/flannel-cni-plugin:v1.1.2
 --platform=linux/arm64 docker.io/cilium/cilium:v1.15.3
 --platform=linux/arm64 docker.io/cilium/operator-generic:v1.15.3
---platform=linux/arm64 hybridnetdev/hybridnet-arm64:v0.8.6
+--platform=linux/arm64 hybridnetdev/hybridnet:v0.8.6
 --platform=linux/arm64 docker.io/kubeovn/kube-ovn:v1.10.10
 --platform=linux/arm64 docker.io/kubesphere/multus-cni:v3.8
 --platform=linux/arm64 docker.io/openebs/provisioner-localpv:3.3.0
