@@ -1,6 +1,3 @@
---platform=linux/arm64 velero/velero:v1.9.7
---platform=linux/arm64 chainguard/haproxy-ingress:latest
---platform=linux/arm64 bitnami/metrics-server:0.6.2
---platform=linux/arm64 velero/velero-plugin-for-aws:1.5.5
+--platform=linux/arm64 velero/velero-plugin-for-aws:v1.5.5
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
