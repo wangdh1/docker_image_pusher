@@ -1,6 +1,5 @@
---platform=linux/arm64 bitnami/kube-state-metrics:2.12.0
---platform=linux/arm64 prom/node-exporter:v1.0.1
---platform=linux/arm64 prom/prometheus:v2.20.1
+projecthami/hami:v2.4.0
+
 --platform=linux/arm64 jimmidyson/configmap-reload:v0.4.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
