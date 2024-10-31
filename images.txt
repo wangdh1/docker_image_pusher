@@ -1,4 +1,4 @@
-projecthami/hami:v2.4.0
+ghcr.io/docker-mailserver/docker-mailserver:14.0.0
 
 --platform=linux/arm64 jimmidyson/configmap-reload:v0.4.0
 #支持指定架构
