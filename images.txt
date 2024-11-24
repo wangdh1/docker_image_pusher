@@ -1,4 +1,5 @@
-ghcr.io/docker-mailserver/docker-mailserver:14.0.0
+gitlab/gitlab-ce:latest
+gitlab/gitlab-runner:alpine
 
 --platform=linux/arm64 jimmidyson/configmap-reload:v0.4.0
 #支持指定架构
