@@ -1,5 +1,4 @@
-gitlab/gitlab-ce:latest
-gitlab/gitlab-runner:alpine
+dcu-exporter:v2.0.0.240718
 
 --platform=linux/arm64 jimmidyson/configmap-reload:v0.4.0
 #支持指定架构
