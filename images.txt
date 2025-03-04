@@ -1,4 +1,4 @@
-nvcr.io/nvidia/pytorch:24.02-py3
+rayproject/ray-ml:2.2.0-gpu
 
 --platform=linux/arm64 jimmidyson/configmap-reload:v0.4.0
 #支持指定架构
