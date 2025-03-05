@@ -1,4 +1,4 @@
-rayproject/ray-ml:2.37.0.cabc24-py310-gpu
+rayproject/ray-ml:2.42.0.637116-py310
 
 --platform=linux/arm64 jimmidyson/configmap-reload:v0.4.0
 #支持指定架构
