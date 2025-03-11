@@ -1,4 +1,4 @@
-rayproject/ray-ml:2.42.0.637116-py310
+nvcr.io/nvidia/k8s-device-plugin:v0.17.0
 
 --platform=linux/arm64 jimmidyson/configmap-reload:v0.4.0
 #支持指定架构
