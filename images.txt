@@ -1,4 +1,4 @@
-nvcr.io/nvidia/k8s-device-plugin:v0.17.0
+bitnami/mlflow:2.21.0-debian-12-r1
 
 --platform=linux/arm64 jimmidyson/configmap-reload:v0.4.0
 #支持指定架构
