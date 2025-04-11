@@ -1,4 +1,4 @@
-4pdosc/ai-benchmark:2.4.1-gpu
+docker.io/istio/examples-bookinfo-productpage-v1:1.17.0
 
 --platform=linux/arm64 jimmidyson/configmap-reload:v0.4.0
 #支持指定架构
