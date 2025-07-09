@@ -1,4 +1,4 @@
-centos:centos8.2.2004
+cursorhq/cursor
 
 --platform=linux/arm64 jimmidyson/configmap-reload:v0.4.0
 #支持指定架构
