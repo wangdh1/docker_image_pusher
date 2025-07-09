@@ -1,4 +1,4 @@
-cursorhq/cursor
+jonortal/cursor-docker
 
 --platform=linux/arm64 jimmidyson/configmap-reload:v0.4.0
 #支持指定架构
