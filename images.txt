@@ -1,4 +1,4 @@
-ubuntu:20.04
+busybox
 --platform=linux/arm64 jimmidyson/configmap-reload:v0.4.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
