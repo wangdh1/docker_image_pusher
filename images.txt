@@ -1,4 +1,4 @@
 nginx
-golang:1.25-bullseye
+gcr.io/gke-release/distroless-iptables:v0.2.1-gke.1
 #支持指定架构
---platform=linux/arm64 golang:1.25-bullseye
+--platform=linux/arm64 gcr.io/gke-release/distroless-iptables:v0.2.1-gke.1
