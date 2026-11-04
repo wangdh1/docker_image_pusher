@@ -1,4 +1,4 @@
-#nginx
+# nginx
 #gcr.io/gke-release/distroless-iptables:v0.2.1-gke.1
 rockylinux:8.10
 #支持指定架构
